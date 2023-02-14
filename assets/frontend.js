@@ -1,0 +1,1 @@
+!function(o){"use strict";o((function(){o('[data-bs-toggle="popover"]').popover()}))}(jQuery);
